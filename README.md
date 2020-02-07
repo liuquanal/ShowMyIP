@@ -9,6 +9,10 @@ $ cd ./ShowMyIP
 $ go build
 ```
 
+## 下载地址
+
+windows 二进制下载（[ShowMyIP.zip](http://x.iyhc.top:7777/softs/ShowMyIP.zip)）
+
 ## 部署(windows)
 
 下载编译好的二进制文件 ShowMyIP.exe，双击即可在 12345 端口开启服务。访问`http://127.0.0.1:12345/myip`即可查看自己的访问 IP。
